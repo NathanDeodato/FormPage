@@ -25,4 +25,4 @@
 
 <h4>Finish!</h4>
 
-<footer>&copy; NT Developer</footer>
+<footer align="center" >&copy; NT Developer</footer>
