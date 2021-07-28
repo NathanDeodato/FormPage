@@ -6,12 +6,12 @@
     Registration form. With basic information that a user needs to complete the registration
 </p>
 
-<br>
+---
 
 ### 🖼 Image project
 ![Form-v1](Img/Form-page-v1.png)
 
-<br>
+---
 
 ### 🛠 Technology
 
@@ -19,7 +19,7 @@
 <li> Javascript
 <li> CSS
 
-<br>
+---
 
 ### ✔ Status
 
